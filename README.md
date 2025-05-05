@@ -1,0 +1,2 @@
+# Causal-AI-Driven-Model-for-Predicting-Telecom-Churn-and-Boosting-Retention
+This study proposes an improved churn prediction model for telecoms using Causal AI to identify root causes rather than mere correlations. It evaluates XGBoost, ANN, and DNN models, revealing key churn factors like contract type and payment method. Results show high accuracy and actionable insights to boost retention and business sustainability.
