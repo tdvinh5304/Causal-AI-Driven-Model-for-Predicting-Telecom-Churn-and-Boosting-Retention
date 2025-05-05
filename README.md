@@ -24,15 +24,6 @@ The integration of Causal AI with machine learning:
 - 🤖 TensorFlow / Keras  
 - 🧪 DoWhy / EconML (for causal inference)
 
-## 📁 Project Structure
-├── data/ # Raw and processed datasets
-├── notebooks/ # Jupyter notebooks for EDA, modeling, and causal analysis
-├── models/ # Saved model files
-├── src/ # Python scripts for preprocessing, training, and evaluation
-├── results/ # Output results, metrics, and visualizations
-├── requirements.txt # Dependencies
-└── README.md # Project description
-
 ## ✅ Results
 - Accurate and reliable churn predictions
 - Clear identification of root causes
